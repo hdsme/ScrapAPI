@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  scrapapi:
+    image: scrapapi
+    container_name: scrapi
+    ports:
+      - "8008:80"
+    restart: unless-stopped

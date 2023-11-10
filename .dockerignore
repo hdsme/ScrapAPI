@@ -1,0 +1,12 @@
+logs
+middlewares
+pipelines
+routers
+spiders
+.dockerignore
+.env
+.env.*
+build-docker.sh
+docker-compose.yml
+Dockerfile
+settings.py
