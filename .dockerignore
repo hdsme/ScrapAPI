@@ -10,3 +10,5 @@ build-docker.sh
 docker-compose.yml
 Dockerfile
 settings.py
+portia_projects
+logs
